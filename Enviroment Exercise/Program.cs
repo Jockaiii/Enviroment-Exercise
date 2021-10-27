@@ -4,7 +4,7 @@ namespace Enviroment_Exercise
 {
     class Program
     {
-        static void Main()
+        private static void Main()
         {
             Console.WriteLine("Hello World!");
         }
